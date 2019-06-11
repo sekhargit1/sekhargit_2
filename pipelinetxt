@@ -1,0 +1,6 @@
+node{
+    stage('code_pull')
+    git 'https://github.com/sekhargit1/sekhargit_2.git'
+    
+    
+}
